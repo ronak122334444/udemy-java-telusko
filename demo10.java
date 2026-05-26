@@ -1,4 +1,4 @@
-//static means you are making something as a class member 
+//static keyword  means you are making something as a class member 
 class Mobile{
 
     String brand;
