@@ -1,3 +1,4 @@
+//this and super method are used to call the constructor of the same class and parent class respectively
 class A {
 
     public A() {
