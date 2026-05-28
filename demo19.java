@@ -1,3 +1,5 @@
+ //Abstract keyword is used to create abstract class and abstract method
+//Abstract class is a class which is declared with abstract keyword and it can not be instantiated
  abstract class Car{
     public  abstract void drive();
     public abstract void fly();
