@@ -1,3 +1,5 @@
+//Method overriding in class b show method id overiding show metjod of a class 
+
 class A{
     public void show(){
         System.out.println("in A show");
